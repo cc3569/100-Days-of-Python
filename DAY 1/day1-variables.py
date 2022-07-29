@@ -31,4 +31,3 @@ print(length)
 #
 # The print() will print what is in the "length" variable, which is
 # a numerical value
-
