@@ -1,6 +1,8 @@
 # 100 Days of Python
 # Cole Catron
 
+# PROJECT: "Band Name Generator Program"
+
 # Step 1: Create a greeting for your program!
 
 print("Welcome to the Band Name Generator!\n")
